@@ -1,6 +1,6 @@
 # Impactos por Fuente
 
-  - Biomasa
+  ## Biomasa
     > La fuente de biomasa provendrá principalmente de:
     > 
     >  - Desechos de otras actividades
@@ -72,13 +72,13 @@
 
       - CH4
 
-  - Biogas
+  ## Biogas
 
     - Suelo y Agua debido al Digestato
 
     - Calidad del Aire por emisiones de la Combustión de GRS
 
-  - Marina
+  ## Marina
     > Abarca proyectos de energía undimotriz, que son aquellos que aprovechan la energía contenida en el movimiento de las olas, tanto como proyectos de energía mareomotriz, que son aquellos que aprovechan la diferencia de energía dada por las alturas de las mareas.
     > 
     > # Mitigación, Control y Monitoreo
@@ -122,7 +122,7 @@
     - Ruido de Operación
       > El ruido producido por las centrales, ya sea superficial o subacuático, puede producir cambios en el comportamiento de la fauna. El comportamiento huidizo de algunas especies puede dejar a los predadores sin presas, a la vez que el ruido superficial puede ahuyentar aves que son indispensables para el ecosistema subacuático.
 
-  - Brahyan
+  ## Brahyan
 
     - Solar
 

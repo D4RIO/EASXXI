@@ -1,0 +1,410 @@
+<?xml version="1.0"?>
+<minder version="1.9.2">
+  <theme name="default" label="Predeterminado" index="3"/>
+  <styles>
+    <style level="0" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="1" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="2" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="3" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="4" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="5" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="6" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="7" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="8" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="9" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+    <style level="10" isset="true" linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false" connectiondash="dotted" connectionwidth="5" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10"/>
+  </styles>
+  <drawarea x="-115.6879797149129" y="-720.6553591008784" scale="0.47499999999999998"/>
+  <images/>
+  <nodes>
+    <node id="0" posx="843.49266721491279" posy="1038.6241091008781" maxwidth="200" width="223" height="90" side="left" fold="false" treesize="1961.499999999998" layout="Horizontal">
+      <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+      <formatting/>
+      <nodename>Impactos por Fuente</nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="2" posx="592.49266721491279" posy="921.62410910087817" maxwidth="200" width="151" height="90" side="left" fold="false" treesize="1691.9999999999995" color="#715344" colorroot="true" layout="Horizontal">
+          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>Biomasa</nodename>
+          <nodenote>La fuente de biomasa provendr&#xE1; principalmente de:
+
+ - Desechos de otras actividades
+ - Cultivos energ&#xE9;ticos
+
+Y se quemar&#xE1; directamente o mediante la generaci&#xF3;n de un combustible con un proceso intermedio, como es el caso del biogas o producci&#xF3;n de carb&#xF3;n.
+
+Los cultivos con fines exclusivamente energ&#xE9;ticos requieren suelo, y esto incrementa por un lado el &#xE1;rea usada para cultivo, lo que acelera la expansi&#xF3;n de la frontera agropecuaria y pone presi&#xF3;n sobre &#xE1;reas de vegetaci&#xF3;n nativa; por otro lado, puede requerir uso de agroqu&#xED;micos que pongan en riesgo la calidad del agua.
+
+Tanto en caso de desechos de otras actividades como para el caso de cultivos energ&#xE9;ticos, el uso de biomasa para obtener energ&#xED;a implica generaci&#xF3;n de emisiones gaseosas, l&#xED;quidas, y ceniza.
+
+# Mitigaci&#xF3;n, Control y Monitoreo
+
+ - Considerar distancias m&#xED;nimas de seguridad a cursos y cuerpos de agua.
+ - Establecer un manejo adecuado y programado de las cenizas.
+ - Gestionar los restos inorg&#xE1;nicos.
+ - Analizar las cenizas que ser&#xE1;n utilizadas y evaluar c&#xF3;mo su utilizaci&#xF3;n afecta al suelo.
+ - Empleo de circuitos de enfriamiento, reutilizaci&#xF3;n del agua.
+ - Evitar vuelco de efluentes sobre los cursos o cuerpos de agua.
+ - Monitoreo de efluentes.
+ - Monitoreo de aguas subterr&#xE1;neas.
+ - Monitoreo de aguas superficiales.
+ - Planificaci&#xF3;n de la localizaci&#xF3;n de las instalaciones.
+ - Evitar voladura de material cuando se requiera acciones de trituraci&#xF3;n, transporte y acopio.
+ - En caso de situaciones meteorol&#xF3;gicas que incrementen los efectos de la emisi&#xF3;n de polvo, considerar la suspensi&#xF3;n de actividades.
+ - Controlar emisiones mediante tratamiento de gases. Monitorear cada contaminante. Monitorear calidad del aire circundante.</nodenote>
+          <nodes>
+            <node id="19" posx="316.4926672149121" posy="291.62410910087988" maxwidth="200" width="176" height="90" side="left" fold="false" treesize="432" color="#715344" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Suelo y Aguas</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="26" posx="-33.507332785088124" posy="120.62410910087897" maxwidth="200" width="250" height="108" side="left" fold="false" treesize="108" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Presi&#xF3;n sobre el recurso Suelo</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="27" posx="45.492667214912331" posy="228.62410910087942" maxwidth="200" width="171" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Agroqu&#xED;micos</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="28" posx="-7.5073327850881242" posy="318.62410910087942" maxwidth="200" width="224" height="108" side="left" fold="false" treesize="108" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Residuos Agr&#xED;colas y Forestales</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="29" posx="5.4926672149118758" posy="426.62410910087931" maxwidth="200" width="211" height="126" side="left" fold="false" treesize="126" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Agotamiento de la materia org&#xE1;nica y nutrientes</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="20" posx="287.49266721491222" posy="597.62410910087885" maxwidth="200" width="205" height="90" side="left" fold="false" treesize="180" color="#715344" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Efluentes L&#xED;quidos</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="31" posx="23.492667214911762" posy="552.62410910087931" maxwidth="200" width="164" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Temperatura</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="32" posx="-0.50733278508812418" posy="642.6241091008784" maxwidth="200" width="188" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>SO2, HC, Cr, Zn</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="21" posx="305.49266721491244" posy="1092.6241091008776" maxwidth="200" width="187" height="90" side="left" fold="false" treesize="809.99999999999977" color="#715344" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Calidad del Aire</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="30" posx="19.492667214912217" posy="732.62410910087794" maxwidth="200" width="186" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Polvo de ceniza</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="33" posx="101.4926672149129" posy="822.6241091008784" maxwidth="200" width="104" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>NOx</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="34" posx="102.4926672149129" posy="912.62410910087817" maxwidth="200" width="103" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>CO2</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="35" posx="111.4926672149129" posy="1002.6241091008782" maxwidth="200" width="94" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>CO</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="36" posx="112.4926672149129" posy="1092.6241091008771" maxwidth="200" width="93" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>OV</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="37" posx="96.492667214912899" posy="1182.6241091008774" maxwidth="200" width="109" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>PAHs</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="38" posx="108.4926672149129" posy="1272.6241091008769" maxwidth="200" width="97" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>HCl</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="39" posx="-2.5073327850881242" posy="1362.6241091008769" maxwidth="200" width="208" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Dioxinas / Furanos</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="40" posx="-66.507332785088238" posy="1452.6241091008769" maxwidth="200" width="272" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Metales Pesados en Ceniza</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="22" posx="301.49266721491244" posy="1542.6241091008769" maxwidth="200" width="191" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Olores Molestos</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="23" posx="301.49266721491244" posy="1668.6241091008769" maxwidth="200" width="191" height="108" side="left" fold="false" treesize="180" color="#715344" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Gases de Efecto invernadero</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="41" posx="98.492667214912899" posy="1632.6241091008769" maxwidth="200" width="103" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>CO2</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="42" posx="99.492667214912899" posy="1722.6241091008774" maxwidth="200" width="102" height="90" side="left" fold="false" treesize="90" color="#715344" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>CH4</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="4" posx="622.49266721491279" posy="1884.6241091008769" maxwidth="200" width="121" height="90" side="left" fold="false" treesize="234" color="#c6262e" colorroot="true" layout="Horizontal">
+          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>Biogas</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="24" posx="282.49266721491244" posy="1812.6241091008769" maxwidth="200" width="240" height="108" side="left" fold="false" treesize="108" color="#c6262e" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Suelo y Agua debido al Digestato</nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="25" posx="305.49266721491244" posy="1920.6241091008769" maxwidth="200" width="217" height="126" side="left" fold="false" treesize="126.00000000000003" color="#c6262e" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Calidad del Aire por emisiones de la Combusti&#xF3;n de GRS</nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="1" posx="1166.4926672149134" posy="398.97489035087779" maxwidth="200" width="138" height="90" side="right" fold="false" treesize="539.99999999999989" color="#2f516b" colorroot="true" layout="Horizontal">
+          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>Marina</nodename>
+          <nodenote>Abarca proyectos de energ&#xED;a undimotriz, que son aquellos que aprovechan la energ&#xED;a contenida en el movimiento de las olas, tanto como proyectos de energ&#xED;a mareomotriz, que son aquellos que aprovechan la diferencia de energ&#xED;a dada por las alturas de las mareas.
+
+# Mitigaci&#xF3;n, Control y Monitoreo
+
+ - Mantenimiento permanente de las instalaciones para prevenir vertidos.
+ - Plan de contingencia frente a eventualidades.
+ - Inspecciones visuales del entorno.
+ - Control peri&#xF3;dico de los par&#xE1;metros de inter&#xE9;s en calidad de agua.
+ - Evitar h&#xE1;bitats sensibles o de importancia para la conservaci&#xF3;n.
+ - Monitorear el nivel de ruido subacu&#xE1;tico.
+ - Realizar monitoreo del bentos.
+ - Realizar monitoreo de fauna marina</nodenote>
+          <nodes>
+            <node id="5" posx="1404.4926672149124" posy="209.97489035087824" maxwidth="200" width="239" height="108" side="right" fold="false" treesize="180.00000000000045" color="#2f516b" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Din&#xE1;mica Marina e Hidrosedimentolog&#xED;a</nodename>
+              <nodenote>Los cambios en la din&#xE1;mica marina e hidrosedimentolog&#xED;a pueden afectar al ecosistema local. Al intentar obtener grandes cantidades de energ&#xED;a del mar, tambi&#xE9;n se deben construir grandes estructuras que interact&#xFA;en con este, impactando sobre el movimiento natural y el transporte de sedimentos y nutrientes marinos.</nodenote>
+              <nodes>
+                <node id="11" posx="1743.4926672149129" posy="173.97489035087779" maxwidth="200" width="245" height="90" side="right" fold="false" treesize="90" color="#2f516b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Estructuras Flotantes</nodename>
+                  <nodenote>Las estructuras flotantes disminuir&#xE1;n la energ&#xED;a de las olas y/o mareas. En general, la tasa promedio de sedimentaci&#xF3;n ser&#xE1; m&#xE1;s baja debido a la menor energ&#xED;a de movimiento presente para sostener la suspensi&#xF3;n.</nodenote>
+                </node>
+                <node id="12" posx="1743.4926672149129" posy="263.97489035087824" maxwidth="200" width="200" height="90" side="right" fold="false" treesize="90" color="#2f516b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Construcciones</nodename>
+                  <nodenote>Las construcciones, por ejemplo:
+
+ - Muros longitudinales
+  - Revestimientos
+  - Espigones
+  - Diques
+  
+Suponen cambios en la forma de movimiento del agua. Se cambiar&#xE1; la velocidad de flujo, las zonas de sedimentaci&#xF3;n, existir&#xE1;n lugares de erosi&#xF3;n nuevos donde antes no hab&#xED;a cambiando el tipo de sedimentos presentes, etc&#xE9;tera.</nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="6" posx="1404.4926672149124" posy="353.97489035087767" maxwidth="200" width="257" height="90" side="right" fold="false" treesize="90" color="#2f516b" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Geomorfolog&#xED;a Costera</nodename>
+              <nodenote>Las modificaciones a la geomorfolog&#xED;a costera suman un apartado importante en la modificaci&#xF3;n del entorno marino. Muchas playas, acantilados o canales de marea cumplen un rol en el ecosistema local. Muchas especies eligen accidentes geogr&#xE1;ficos costeros para actividades importantes de su ciclo de vida, y esto se podr&#xED;a afectar con la modificaci&#xF3;n de la geomorfolog&#xED;a costera tanto como con el consecuente cambio en la din&#xE1;mica marina e hidrosedimentolog&#xED;a del lugar, &#xED;ntimamente relacionado.</nodenote>
+            </node>
+            <node id="17" posx="1404.4926672149124" posy="443.97489035087767" maxwidth="200" width="211" height="90" side="right" fold="false" treesize="90" color="#2f516b" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Calidad del Agua</nodename>
+              <nodenote>La calidad del agua se puede ver afectada tanto durante la etapa constructiva como durante la operaci&#xF3;n. En la primera, el aumento del material en suspensi&#xF3;n por el anclaje de estructuras fijas y tr&#xE1;fico de barcos son mayores. El material en suspensi&#xF3;n inicialmente afecta la turbidez, por lo tanto la claridad e ingreso de la luz solar a diversas zonas del lecho marino. El tr&#xE1;fico de barcos siempre supone riesgos debido al vertido accidental de hidrocarburos como el fuel oil, aceites lubricantes o hidr&#xE1;ulicos, y otras sustancias. La etapa de operaci&#xF3;n tiene todos aquellos riesgos asociados a el uso de embarcaciones y equipos, como los que mencionamos antes, sumado a la erosi&#xF3;n de &#xE1;nodos de sacrificio, que introduce metales en el agua, pinturas y estructuras que pasan largos per&#xED;odos en contacto con el medio marino, y aquel impacto asociado a las estructuras y la din&#xE1;mica marina, que traer&#xE1; aparejados cambios fisico qu&#xED;micos. Por ejemplo, la mayor tasa de sedimentaci&#xF3;n y menor energ&#xED;a de las olas puede ocasionar que la disponibilidad de nutrientes y ox&#xED;geno en el medio baje, a su vez causando una merma en la tasa de reproducci&#xF3;n del fitoplancton, que sirve de alimento base para el ecosistema local.
+
+A su vez, el vertido de aguas servidas puede producir la eutroficaci&#xF3;n de las aguas, derivando en el crecimiento descontrolado de algas y cianobacterias y afectando el ingreso de la luz solar.</nodenote>
+            </node>
+            <node id="18" posx="1404.4926672149124" posy="533.97489035087767" maxwidth="200" width="265" height="90" side="right" fold="false" treesize="90" color="#2f516b" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Contaminaci&#xF3;n El&#xE9;ctrica</nodename>
+              <nodenote>Las centrales, transformadores, cables y otras partes de una planta generadora marina pueden afectar el campo el&#xE9;ctrico de la zona. Muchas especies son sensibles en mayor o menor medida. Los elasmobranquios, que incluyen rayas y tiburones, son especialmente sensibles. Muchos tiburones y rayas son pr&#xE1;cticamente ciegos, vali&#xE9;ndose de su sensibilidad a microcampos el&#xE9;ctricos y su olfato para buscar alimento. Muchas especies de rayas son el&#xE9;ctricas, como la Tetronarce puelcha, en peligro cr&#xED;tico de extinci&#xF3;n (CR), conocida en el exterior como Torpedo Argentina. Las rayas el&#xE9;ctricas se valen de &#xF3;rganos que producen descargas el&#xE9;ctricas para cazar.</nodenote>
+            </node>
+            <node id="64" posx="1404.4926672149124" posy="623.97489035087767" maxwidth="200" width="232" height="90" side="right" fold="false" treesize="90" color="#2f516b" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Ruido de Operaci&#xF3;n</nodename>
+              <nodenote>El ruido producido por las centrales, ya sea superficial o subacu&#xE1;tico, puede producir cambios en el comportamiento de la fauna. El comportamiento huidizo de algunas especies puede dejar a los predadores sin presas, a la vez que el ruido superficial puede ahuyentar aves que son indispensables para el ecosistema subacu&#xE1;tico.</nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="43" posx="1166.4926672149134" posy="1308.6241091008762" maxwidth="200" width="133" height="90" side="right" fold="false" treesize="1368" color="#77767b" colorroot="true" layout="Horizontal">
+          <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+          <formatting/>
+          <nodename>Brahyan</nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="44" posx="1399.4926672149124" posy="912.12410910087704" maxwidth="200" width="109" height="90" side="right" fold="false" treesize="486" color="#77767b" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Solar</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="53" posx="1608.4926672149129" posy="714.12410910087704" maxwidth="200" width="249" height="108" side="right" fold="false" treesize="108" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Afectaci&#xF3;n de la Calidad del Suelo</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="54" posx="1608.4926672149129" posy="822.12410910087704" maxwidth="200" width="172" height="108" side="right" fold="false" treesize="108" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Impacto en la Boidiversidad</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="55" posx="1608.4926672149129" posy="930.12410910087681" maxwidth="200" width="168" height="90" side="right" fold="false" treesize="90" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Uso del agua</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="56" posx="1608.4926672149129" posy="1020.1241091008765" maxwidth="200" width="201" height="90" side="right" fold="false" treesize="90" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Impacto Lum&#xED;nico</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="57" posx="1608.4926672149129" posy="1110.1241091008767" maxwidth="200" width="245" height="90" side="right" fold="false" treesize="90" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Generaci&#xF3;n de residuos</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="46" posx="1399.4926672149124" posy="1398.1241091008762" maxwidth="200" width="157" height="90" side="right" fold="false" treesize="486.00000000000011" color="#77767b" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>Geot&#xE9;rmica</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="58" posx="1656.4926672149129" posy="1200.1241091008767" maxwidth="200" width="240" height="108" side="right" fold="false" treesize="108" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Afectaci&#xF3;n de recursos h&#xED;dricos</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="60" posx="1656.4926672149129" posy="1308.1241091008762" maxwidth="200" width="249" height="108" side="right" fold="false" treesize="108" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Generaci&#xF3;n de Residuos S&#xF3;lidos</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="61" posx="1656.4926672149129" posy="1416.1241091008762" maxwidth="200" width="222" height="90" side="right" fold="false" treesize="90" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Emisiones Gaseosas</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="62" posx="1656.4926672149129" posy="1506.1241091008762" maxwidth="200" width="198" height="90" side="right" fold="false" treesize="90" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Impacto Ac&#xFA;stico</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="63" posx="1656.4926672149129" posy="1596.1241091008762" maxwidth="200" width="226" height="90" side="right" fold="false" treesize="90" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Actividades S&#xED;smicas</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="47" posx="1399.4926672149124" posy="1794.6241091008767" maxwidth="200" width="115" height="90" side="right" fold="false" treesize="396" color="#77767b" colorroot="false" layout="Horizontal">
+              <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+              <formatting/>
+              <nodename>E&#xF3;lica</nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="50" posx="1614.4926672149129" posy="1686.1241091008762" maxwidth="200" width="264" height="90" side="right" fold="false" treesize="90" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Parpadeo "shadow flicker"</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="51" posx="1614.4926672149129" posy="1776.1241091008767" maxwidth="200" width="231" height="108" side="right" fold="false" treesize="108" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Colisiones con aves y murci&#xE9;lagos</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="52" posx="1614.4926672149129" posy="1884.1241091008767" maxwidth="200" width="203" height="108" side="right" fold="false" treesize="108" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Riesgos para la navegaci&#xF3;n a&#xE9;rea</nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="49" posx="1614.4926672149129" posy="1992.1241091008776" maxwidth="200" width="206" height="90" side="right" fold="false" treesize="90" color="#77767b" colorroot="false" layout="Horizontal">
+                  <style linktype="curved" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="2" nodefill="false" nodemargin="20" nodepadding="16" nodefont="Sans 11" nodemarkup="false"/>
+                  <formatting/>
+                  <nodename>Ruido Operacional</nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+  </nodes>
+</minder>

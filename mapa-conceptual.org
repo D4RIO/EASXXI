@@ -12,7 +12,7 @@ Y se quemará directamente o mediante la generación de un combustible con un pr
     
 Tanto en caso de desechos de otras actividades como para el caso de cultivos energéticos, el uso de biomasa para obtener energía implica generación de emisiones gaseosas, líquidas, y ceniza.
     
-# Mitigación, Control y Monitoreo
+** Mitigación, Control y Monitoreo
     
   - Considerar distancias mínimas de seguridad a cursos y cuerpos de agua.
   - Establecer un manejo adecuado y programado de las cenizas.
@@ -84,7 +84,7 @@ Los cultivos con fines exclusivamente energéticos requieren suelo, y esto incre
 
     Abarca proyectos de energía undimotriz, que son aquellos que aprovechan la energía contenida en el movimiento de las olas, tanto como proyectos de energía mareomotriz, que son aquellos que aprovechan la diferencia de energía dada por las alturas de las mareas.
     
-    # Mitigación, Control y Monitoreo
+** Mitigación, Control y Monitoreo
     
      - Mantenimiento permanente de las instalaciones para prevenir vertidos.
      - Plan de contingencia frente a eventualidades.
